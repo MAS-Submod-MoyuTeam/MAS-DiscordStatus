@@ -8,7 +8,7 @@
 -----
 
 ## 使用方法：
-1.参照https://forum.gamer.com.tw/C.php?page=1&bsn=60076&snA=5075796&gothis=57821822#57821822创建你自己的应用id
+1.参照 https://forum.gamer.com.tw/C.php?page=1&bsn=60076&snA=5075796&gothis=57821822#57821822 创建你自己的应用id
 ![image](https://user-images.githubusercontent.com/72117241/180639957-db4888ad-e8a1-454a-b9ea-0d9d3b8c4f1f.png)
 2.进入游戏，在Submod设置界面填入你的id
 3.点击"手动启用同步"即可
