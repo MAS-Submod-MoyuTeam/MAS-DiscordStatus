@@ -5,10 +5,10 @@ init -990 python:
         description=(
             "将你的MAS游戏状态同步至Discord.\n"
         ),
-        version="1.0.0",
+        version="1.0.1",
         settings_pane="DSS_Setting",
     )
-default persistent._dss_id = '1000'
+default persistent._dss_id = '1000318038253510727'
 
 define dss=None
 define dss_l=None
