@@ -8,7 +8,8 @@ init -990 python:
         version="1.0.1",
         settings_pane="DSS_Setting",
     )
-define persistent._dss_id = '1000318038253510727'
+init -999 python:
+    persistent._dss_id = '1000318038253510727'
 
 define dss=None
 define dss_l=None
@@ -107,7 +108,7 @@ init 900 python:
             time.sleep(2)
             dss=None
         cmd = "\"{}\" -i \"{}\" -s \"{}\" -d \"{}\" -stt \"{}\" -li \"{}\" -si \"{}\" -st \"{}\"".format(
-        status['basedir']+"/game/Submods/Discord_MAS/dss/dist/dss.exe",
+        status['basedir']+"/game/Submods/Discord_MAS/dss/dist/dss/dss.exe",
         status['id'],
         status['State'],
         status["Detail"],
