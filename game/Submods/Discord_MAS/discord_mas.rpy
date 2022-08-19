@@ -8,7 +8,7 @@ init -990 python:
         version="1.0.1",
         settings_pane="DSS_Setting",
     )
-default persistent._dss_id = '1000318038253510727'
+define persistent._dss_id = '1000318038253510727'
 
 define dss=None
 define dss_l=None
