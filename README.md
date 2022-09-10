@@ -1,6 +1,8 @@
 # MAS-DiscordStatus
 在Discord中展示MAS状态  
 
+⛔ **本子模组已经停止维护**
+
 ![MP_PQHM5ZQRUBBUY2J](https://user-images.githubusercontent.com/72117241/180639865-193750f7-4d0c-4bcc-9b16-1a57f481a69f.png)
 ![YTKKHWXEUAX5ENCUCL](https://user-images.githubusercontent.com/72117241/180639867-8d316955-c0d9-4445-a0bc-1115ffce3b8e.png)
 ![unknown](https://user-images.githubusercontent.com/72117241/180639868-03061ab9-1072-4682-a43a-a25ffdb4b55e.png)
